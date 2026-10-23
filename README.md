@@ -46,7 +46,7 @@
 ## 📊 GitHub в цифрах
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MADlK&locale=ru&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=64748B" alt="Серия коммитов" />
+  <img height="170" src="https://streak-stats.demolab.com?user=MADlK&locale=ru&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=64748B" alt="Серия коммитов" />
 </p>
 
 ---
