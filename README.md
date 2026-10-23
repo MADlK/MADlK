@@ -46,7 +46,7 @@
 ## 📊 GitHub в цифрах
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADlK&locale=ru&layout=compact&langs_count=8&hide=LLVM&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" alt="Топ языков" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADlK&locale=ru&layout=compact&langs_count=8&exclude_repo=z5.2_ShaipovM,z5.1_ShaipovM,z4_ShaipovM&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" alt="Топ языков" />
   <img height="170" src="https://streak-stats.demolab.com?user=MADlK&locale=ru&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=64748B" alt="Серия коммитов" />
 </p>
 
