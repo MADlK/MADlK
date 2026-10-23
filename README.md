@@ -46,16 +46,12 @@
 ## 📊 GitHub в цифрах
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MADlK&locale=ru&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" alt="Статистика GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADlK&locale=ru&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Топ языков" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MADlK&locale=ru&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" alt="Статистика GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADlK&locale=ru&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" alt="Топ языков" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MADlK&locale=ru&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=64748B" alt="Серия коммитов" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MADlK&bg_color=0D1117&color=A78BFA&line=22D3EE&point=34D399&area=true&hide_border=true&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%20%D0%B3%D0%BE%D0%B4" alt="График активности" />
 </p>
 
 ---
